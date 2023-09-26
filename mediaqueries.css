@@ -4,9 +4,10 @@
         height: 83vh;
         margin-bottom: 6rem;
     }    
+    /*
     .about-containers{
         flex-wrap: wrap;
-    }
+    }*/
 }
 
 
@@ -19,6 +20,7 @@
     {
         display:flex;
     }
+  
     #experience,.experience-details-container{
         margin-top: 2rem;
     }
@@ -32,7 +34,7 @@
         height: fit-content;
     }
     section{
-        margin: 0 5%;
+        margin: 0 1%;
     }
     .section__pic-container{
         width: 275px;
